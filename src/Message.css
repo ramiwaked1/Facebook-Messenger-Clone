@@ -1,0 +1,39 @@
+.message {
+    padding: 10px;
+    margin: 10px;
+    width: 50%;
+}
+
+.message__user {
+    margin-left: auto;
+    color: white;
+    text-align: left !important;
+    width: 50%;
+}
+
+.message__userCard {
+    background-color: #0b81ff !important;
+}
+
+.message__guestCard {
+    background-color: #e9e9eb !important;
+}
+
+.username__strong {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.MuiCardContent-root:last-child {
+    overflow-wrap: anywhere !important;
+}
+
+.message__custom {
+    
+}
+
+.MuiTypography-h5 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+    font-size: 16px !important;
+}
